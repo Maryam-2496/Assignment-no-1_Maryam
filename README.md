@@ -1,21 +1,25 @@
 🍔 Cafeteria Management System – C++ Console Application
-Overview
+
+**Overview**
+
 The Cafeteria Management System is a simple yet effective C++ console-based application designed to streamline order management, billing, and sales reporting for a cafeteria. It supports multi-customer ordering, calculates itemized bills, tracks inventory sales, and generates weekly/monthly sales reports—all within a single session.
 
-🔧 Features
-📋 Menu-Driven Interface – Allows customers to view available items with dynamic pricing.
+**🔧 Features**
 
-🧾 Itemized Billing – Calculates total price based on quantity and item selected.
+📋 Menu-Driven Interface : – Allows customers to view available items with dynamic pricing.
 
-👥 Multi-Customer Support – Processes orders for multiple customers in a loop.
+🧾 Itemized Billing: – Calculates total price based on quantity and item selected.
 
-📊 Sales Reporting – Generates detailed weekly and monthly sales reports for cafeteria performance insights.
+👥 Multi-Customer Support: – Processes orders for multiple customers in a loop.
 
-📈 Sales Tracking – Tracks how many times each item is sold per session.
+📊 Sales Reporting: – Generates detailed weekly and monthly sales reports for cafeteria performance insights.
 
-☎️ Customer Info Logging – Records customer name and phone number for each transaction.
+📈 Sales Tracking: – Tracks how many times each item is sold per session.
+
+☎️ Customer Info Logging: – Records customer name and phone number for each transaction.
 
 🧠 How It Works
+
 The system prompts for the number of customers.
 
 Each customer is guided through an ordering menu.
@@ -38,7 +42,9 @@ Item No.	Item	Price (Rs.)
 6	Samosa	40
 7	Coffee	150
 
+
 🛠️ Technologies Used
+
 Language: C++
 
 Concepts: Functions, Loops, Arrays, Structs, Conditional Logic
@@ -46,24 +52,16 @@ Concepts: Functions, Loops, Arrays, Structs, Conditional Logic
 Environment: Console/Terminal
 
 🚀 Getting Started
+
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/cafeteria-management-system.git
 Compile the source code:
 
-bash
-Copy
-Edit
 g++ -o cafeteria cafeteria.cpp
+
 Run the program:
 
-bash
-Copy
-Edit
-./cafeteria
 ✅ Use Cases
 Cafeteria/Bakery management projects for students.
 
