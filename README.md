@@ -1,7 +1,7 @@
 Cafeteria Management System
 Overview
 The Cafeteria Management System is a simple C++ console application that allows a cafeteria to manage customer orders, generate bills, and produce sales reports.
-Following are the Features used are:
+Following are the Features used are: 
  Order multiple items from the menu
  Calculate total bill for customers
  Generate sales reports (weekly & monthly)
